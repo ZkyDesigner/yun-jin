@@ -1,0 +1,5 @@
+.breadcrumb_area .bg-parallax {
+    background: url("../image/gallery1/about_banner.jpg") no-repeat scroll center bottom 0/cover;
+    opacity: 0.50;
+    z-index: -1;
+}
